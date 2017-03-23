@@ -8,6 +8,7 @@ int calculateFibonnaci();
  */
 int main() {
     int n, i = 0, c;
+// bericht wat je moet doen 
     printf("Geef nummer : \n");
     scanf("%d",&n);
 
