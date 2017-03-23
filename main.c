@@ -8,7 +8,7 @@ int calculateFibonnaci();
  */
 int main() {
     int n, i = 0, c;
-
+    printf("Geef nummer : \n");
     scanf("%d",&n);
 
     printf("Fibonacci series\n");
